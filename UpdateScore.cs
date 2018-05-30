@@ -44,5 +44,11 @@ namespace Assignment1
             // Loading Previous Value
             UpdateScoreTextBox.Text = preVal.ToString().Trim();
         }
+
+        private void CancelBtn_Click(object sender, EventArgs e)
+        {
+            myVal = preVal.ToString();
+            this.Dispose();
+        }
     }
 }

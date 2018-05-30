@@ -34,6 +34,7 @@ namespace Assignment1
 
         private void CancelBtn_Click(object sender, EventArgs e)
         {
+            myVal = "";
             this.Dispose();
         }
     }

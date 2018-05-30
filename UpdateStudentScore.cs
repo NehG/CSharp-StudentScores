@@ -77,8 +77,11 @@ namespace Assignment1
                 this.Hide();
             }
             // Adding Item To ListBox
-            UpdateStudentScoreListBox.Items.Add(ads.MyVal);
-            allscores.Add(ads.MyVal);
+            if (ads.MyVal != "")
+            {
+                UpdateStudentScoreListBox.Items.Add(ads.MyVal);
+                allscores.Add(ads.MyVal);
+            }
         }
 
         private void UpdateBtn_Click(object sender, EventArgs e)
@@ -100,9 +103,12 @@ namespace Assignment1
                     this.Hide();
                 }
                 // Removing Old Item And Adding Item At Same Index
+                if(us.MyVal != "")
+                {
                 UpdateStudentScoreListBox.Items.Insert(SelectedItemIndex, us.MyVal);
                 UpdateStudentScoreListBox.Items.RemoveAt(SelectedItemIndex + 1);
                 allscores[SelectedItemIndex] = us.MyVal;
+                }
             }
             else
             {
