@@ -1,0 +1,14 @@
+C:\Users\Home\source\repos\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\Home\source\repos\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\Home\source\repos\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\Home\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.AddNewStudent.resources
+C:\Users\Home\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.AddScore.resources
+C:\Users\Home\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.StudentScores.resources
+C:\Users\Home\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+C:\Users\Home\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.UpdateScore.resources
+C:\Users\Home\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.UpdateStudentScore.resources
+C:\Users\Home\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\Home\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\Home\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
