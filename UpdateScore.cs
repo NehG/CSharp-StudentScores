@@ -27,6 +27,7 @@ namespace Assignment1
 
         private void UpdateBtn_Click(object sender, EventArgs e)
         {
+            // Get Data And Store to method
             if(UpdateScoreTextBox.Text.ToString().Trim() != null)
             {
             MyVal = UpdateScoreTextBox.Text.ToString().Trim();
@@ -40,6 +41,7 @@ namespace Assignment1
 
         private void UpdateScore_Load(object sender, EventArgs e)
         {
+            // Loading Previous Value
             UpdateScoreTextBox.Text = preVal.ToString().Trim();
         }
     }

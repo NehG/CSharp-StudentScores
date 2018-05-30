@@ -27,6 +27,7 @@ namespace Assignment1
 
         private void AddBtn_Click(object sender, EventArgs e)
         {
+            // Adding New Item To ListBox
             myVal = AddScoreTextBox.Text.ToString().Trim();
             this.Dispose();
         }
