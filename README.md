@@ -5,4 +5,4 @@ C# Windows Form Application
 
 Basic Win App Using C# And Visual Code 2017
 
-Run Assignment1.cs File
+Run Program.cs File
