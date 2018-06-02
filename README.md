@@ -4,3 +4,5 @@ C# Windows Form Application
 - Update Student Name And Scores
 
 Basic Win App Using C# And Visual Code 2017
+
+Run Assignment1.cs File
